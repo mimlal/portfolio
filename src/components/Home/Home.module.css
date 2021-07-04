@@ -1,0 +1,26 @@
+.Home{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 9%, rgba(203,58,182,1) 57%, rgba(27,1,64,1) 100%);
+    display: flex;
+    align-items: center;
+    height: 630px;
+    padding-top:80px;
+    width: 100%;
+    position: relative;
+}
+.Home .container{
+    position: absolute;
+    top:15%;
+    left:2%;
+    color: white;
+}
+.Home .container .hello{
+    font-size: 63px;
+}
+.Home .code{
+    height: 50%;
+    width: 630px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

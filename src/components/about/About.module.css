@@ -1,0 +1,21 @@
+.AboutMe{
+    background-color: black;
+}
+.AboutMe .container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3rem;
+    padding-right: 9rem;
+}
+.AboutMe .container .text{
+    width: 40%;
+
+}
+.AboutMe .container .text h2{
+    font-weight: 900;
+    font: 46px;
+    padding-bottom: 3rem;
+}
+.AboutMe .container .photo .profile{
+    border-radius: 10%;
+}

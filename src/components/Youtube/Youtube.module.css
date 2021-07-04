@@ -1,0 +1,11 @@
+.Youtube{
+    margin-top: 3rem;
+    background-color: black;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.Youtube .Paragraph{
+  margin:0 3rem;
+}
